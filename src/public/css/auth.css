@@ -1,0 +1,31 @@
+.auth-form {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #FAF0E6;
+}
+
+.auth-form__group {
+    margin-bottom: 20px;
+}
+
+.auth-form__input {
+    width: 100%;
+    padding: 10px;
+    background-color: #ededed;
+}
+
+.auth-form__button {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.auth-form__button-submit {
+    padding: 10px;
+    width: 50%;
+    height: 70px;
+    border: none;
+    border-radius: 3px;
+    background-color: #877068;
+    color: #fff;
+    cursor: pointer;
+}
